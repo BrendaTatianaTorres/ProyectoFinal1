@@ -1,0 +1,3 @@
+"En conclusion"
+"cada una de las mediciones" 
+"va a tener un error menor al diez porciento"
